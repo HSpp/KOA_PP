@@ -10,7 +10,7 @@
         "koa",
         "async"
     ],
-    "author": "Michael Liao",
+    "author": "H.S",
     "license": "Apache-2.0",
     "dependencies": {
         "koa": "^2.7.0",
